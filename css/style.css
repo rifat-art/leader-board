@@ -1,3 +1,4 @@
+/* player section start */
 .players{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -11,3 +12,4 @@
     width: 56px;
     height: 56px;
 }
+/* player section end */
