@@ -1,0 +1,13 @@
+.players{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.player-profile{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.player-profile img{
+    width: 56px;
+    height: 56px;
+}
